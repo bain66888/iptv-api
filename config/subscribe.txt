@@ -2,21 +2,21 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://live.kilvn.com/iptv.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-https://iptv-org.github.io/iptv/categories/chinese.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
-https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u
 https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u
 
+# https://live.kilvn.com/iptv.m3u
+# https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
+# https://iptv-org.github.io/iptv/categories/chinese.m3u
+# https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
+# https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+# https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
