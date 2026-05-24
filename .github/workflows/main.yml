@@ -11,6 +11,8 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 19 * * *'  # 每天 北京时间 03:00 自动更新
 
 jobs:
   push:
