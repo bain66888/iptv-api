@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-09-15 06:21:15,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
+2026-09-16 05:58:22,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
 
 📺央视频道,#genre#
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8
 
 📡卫视频道,#genre#
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-25.m3u8
