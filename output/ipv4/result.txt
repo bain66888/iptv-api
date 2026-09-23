@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-23 05:52:39,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-09-24 06:07:34,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -11,8 +11,8 @@ CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
-CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
